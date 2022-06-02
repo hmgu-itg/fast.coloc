@@ -1,9 +1,5 @@
 
 
-hello = function(){
-    print('hello')
-}
-
 #' @export
 coloc.fast <- function(beta1,
                        se1,
