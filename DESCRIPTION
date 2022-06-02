@@ -1,0 +1,16 @@
+Package: fast.coloc
+Title: Fast Colocalisation
+Version: 0.1.0
+Authors@R: 
+    c(
+        person("Arthur", "Gilly", , "arthur.gilly@helmholtz-muenchen.de", role = c("aut"),
+            comment = c(ORCID = "0000-0002-3190-4358")),
+        person("Young-Chan", "Park", , "young-chan.Park@helmholtz-muenchen.de", role = c("cre"),
+            comment = c(ORCID = "0000-0001-8964-4571"))
+    )
+Description: A minimal Bayesian colocalisation analysis package.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.0
